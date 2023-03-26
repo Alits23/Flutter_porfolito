@@ -91,7 +91,7 @@ Widget _BodyHead() {
         height: 20,
       ),
       Text(
-        'علی تشکری صباغ',
+        'علی تشکری',
         style: TextStyle(
           fontSize: 18,
           fontWeight: FontWeight.w900,
