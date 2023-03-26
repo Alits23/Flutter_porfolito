@@ -1,6 +1,6 @@
 # porfolito
 
-A new Flutter project.
+CV Application.
 
 ## Getting Started
 
